@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on my portfolio ( using reactJS,nextJS,mirageJS,faunaDB)
 - 🌱 I’m currently learning typescript
-- 📫 How to reach me: henriqueaureliocsilva@gmail.com
+- 📫 How to reach me: henriqueaureliocsilva@gmail.com or by <a href="https://www.linkedin.com/in/henriqueaurelio/"><img align="center" alt="Henrique-LINKEDIN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueAurelio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
