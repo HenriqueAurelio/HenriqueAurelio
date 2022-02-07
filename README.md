@@ -1,7 +1,7 @@
 ### Yo,I'm Henrique Aurelio 👋
 
 - 🔭 I’m currently working on my portfolio ( using reactJS,nextJS,mirageJS,faunaDB)
-- 🌱 I’m currently learning typescript
+- 📚 I’m currently studying typescript, reactJS, nodeJS, docker
 - 📫 How to reach me: henriqueaureliocsilva@gmail.com or by <a href="https://www.linkedin.com/in/henriqueaurelio/" target="_blank"><img align="center" alt="Henrique-LINKEDIN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
 
 
