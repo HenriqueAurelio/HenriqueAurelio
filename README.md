@@ -19,6 +19,8 @@
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Henrique-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Henrique-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >                       
+  <img align="center" alt="Henrique-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
 </div>
 
 
@@ -26,8 +28,7 @@
 
 #### <div align="center">Studying</div>
 <div style="display: inline-block" align="center"><br>
-      <img align="center" alt="Henrique-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >                       
-      <img align="center" alt="Henrique-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
       <img align="center" alt="Henrique-JEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+      <img align="center" alt="Henrique-JEST" height="30" width="40" src="	https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/nestjs.js" />
       <img align="center" alt="Henrique-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
