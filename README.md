@@ -29,6 +29,5 @@
 #### <div align="center">Studying</div>
 <div style="display: inline-block" align="center"><br>
       <img align="center" alt="Henrique-JEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-      <img align="center" alt="Henrique-JEST" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nest-js-icon.svg" />
       <img align="center" alt="Henrique-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
