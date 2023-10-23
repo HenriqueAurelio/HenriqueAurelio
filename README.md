@@ -21,10 +21,8 @@
   <img align="center" alt="Henrique-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Henrique-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >                       
   <img align="center" alt="Henrique-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img align="center" alt="Henrique-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
 </div>
-
-
-
 
 #### <div align="center">Studying</div>
 <div style="display: inline-block" align="center"><br>
